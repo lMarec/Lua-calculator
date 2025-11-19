@@ -1,6 +1,6 @@
 # Lua Calculator
 ![Top Language](https://img.shields.io/badge/language-Lua-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-GPL-blue)
 
 ## Overview
 
@@ -129,7 +129,8 @@ Feel free to open an issue or submit a pull request.
 
 ## License
 
-This project is open source and available under the MIT License.
+This project is open source and available under the GNU General Public License.  
+See [LICENSE](LICENSE) for details.
 
 ## Credits
 
