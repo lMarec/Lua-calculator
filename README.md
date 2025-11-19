@@ -9,10 +9,7 @@ This Lua calculator script provides a simple yet powerful command-line interface
 ## Features
 
 - Basic arithmetic operations (Addition, Subtraction, Multiplication, Division)
-- Integer input validation
-- Division by zero protection
 - Cross-platform screen clearing (Windows, macOS, Linux)
-- Interactive menu system
 - Clean terminal interface with automatic screen clearing
 
 ## Requirements
@@ -31,8 +28,7 @@ If Lua is not found, follow these steps for your operating system:
 ### **Windows**
 1. Download Lua binaries from [LuaBinaries](http://luabinaries.sourceforge.net/)
 2. Extract the files to a directory (e.g., `C:\Program Files\Lua`)
-3. Add the Lua directory to your system PATH
-
+3. Add the Lua directory to your system PATH by going to "Edit environment variables for your account" in windows search and adding the directory you extracted your files to
 ### **macOS**
 Using Homebrew:
 ```bash
@@ -60,8 +56,8 @@ More instructions: [Official Lua documentation](https://www.lua.org/manual/)
 
 1. **Clone the repository or download the file**
    ```bash
-   git clone <your-repository-url>
-   cd <repository-directory>
+   git clone https://github.com/lMarec/Lua-calculator.git
+   cd Lua-calculator
    ```
 
 2. **No additional dependencies required!**  
